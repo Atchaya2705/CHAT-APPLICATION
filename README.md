@@ -46,4 +46,4 @@ CORS (Cross-Origin Resource Sharing)
 
 ##OUTPUT
 
-
+![Image](https://github.com/user-attachments/assets/85aba27d-eb99-441f-889b-a42ddb5946b0)
